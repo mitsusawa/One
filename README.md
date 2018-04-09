@@ -17,7 +17,7 @@ The One is the both simple and unofficial "one-night werewolf" server been able 
 
 * Java
 * Tomcat等のJava Servlet動作環境
-* Javascript対応ウェブブラウザ
+* JavaScript対応ウェブブラウザ
 
 ## Usage
 
