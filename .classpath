@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat 9.0"/>
 	<classpathentry kind="output" path="out/production/one"/>
 </classpath>
