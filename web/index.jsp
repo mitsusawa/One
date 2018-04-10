@@ -12,7 +12,8 @@
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+	<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
 	<script type="text/javascript" src="js/jquery.smoothscroll.js"></script>
 	<script type="text/javascript" src="js/jquery.scrollshow.js"></script>
 	<script type="text/javascript" src="js/jquery-qrcode-0.14.0.js"></script>
