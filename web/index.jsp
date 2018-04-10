@@ -164,7 +164,6 @@
 			out.println(playerCount + "人に設定されました");
 		}
 	%>
-	</p>
 	<h2 id="role">配役</h2>
 	<%
 		int villagerCardCount = 0, werewolfCardCount = 0, thiefCardCount = 0, augerCardCount = 0, suiciderCardCount = 0, lunaticCardCount = 0;
@@ -696,7 +695,7 @@
 	%>
 	<SCRIPT LANGUAGE="JavaScript">
         <!--
-        var QS = new Array, item;
+        var QS = [], item;
         var str = location.search;
         if (str.indexOf('?', 0) > -1) str = str.split('?')[1];
         str = str.split('&');
