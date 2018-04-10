@@ -32,8 +32,7 @@ QRコードによるログインにも対応しています。
 
 ## Licence
 
-使用しているライブラリやテンプレートのライセンスは守ってください。  
-著作権は放棄しませんが、公序良俗に反しない目的であればご自由に利用、改変、再配布等して頂いて構いません。
+[MIT](https://github.com/mitsusawa/One/blob/master/LICENSE)
 
 ## Author
 
