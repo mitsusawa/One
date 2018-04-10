@@ -3,8 +3,8 @@
 	<output-test url="file://$MODULE_DIR$/out/test/one"/>
 	<exclude-output/>
 	<contentEntry url="file://$MODULE_DIR$"/>
-	<lib name="Tomcat" scope="PROVIDED"/>
+	<lib name="Tomcat 9.0" scope="PROVIDED"/>
 	<levels>
-		<level name="Tomcat" value="application_server_libraries"/>
+		<level name="Tomcat 9.0" value="application_server_libraries"/>
 	</levels>
 </component>
